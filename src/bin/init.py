@@ -7,7 +7,7 @@ from bin import fileos
 sys.path.append(os.getcwd() + "/bin/pymod/")
 
 __author__ = "kfatyuip"
-__version__ = "2.7"
+__version__ = "2.8"
 __vt__ = "beta"
 __it__ = "standard"
 
