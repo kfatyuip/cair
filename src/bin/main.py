@@ -95,8 +95,12 @@ def main(scansc=init.dps,mode="",version=init.__version__,data=init.cair_start("
                 continue
             else :
                 output("在?什么时候换的Linux?")
-        elif scan == "cls" or scan == "clear" :
+        elif scan == "cls" and thisos == "Windows" :
             os.system(scan)
+        elif scan == "clear" and thisos == "Linux" :
+            os.system(scan)
+        elif scan == "清屏" :
+            os.system("cls" if thisos == "Windows" else "clear")
         elif funcplay(scan) :
             continue
         elif scan == "" :
