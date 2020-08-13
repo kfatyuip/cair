@@ -32,4 +32,4 @@ __开发者 kfatyuip__
 __开发团队 CRDT工作室__
 
 __CRDT工作室(CRDT Studio)成立于 2020年4月5日，是一个由学生党组成的工作室，专注于开发开源且免费的项目__  
-##### [访问我们的官方网站 http://crdtgzs.rthe.net](http://crdtgzs.rthe.net) &emsp; ___[由热铁盒虚拟主机提供虚拟主机服务]___
+##### [访问我们的官方网站 http://crdtgzs.rthe.net](http://crdtgzs.rthe.net) &emsp; ___(由热铁盒虚拟主机提供虚拟主机服务)___
