@@ -10,7 +10,7 @@ __现在它是一个命令行机器人，但是发行版可能具有图形界面
 
 __CAIR中有许多模块，使得它可以有效地帮助开发人员__  
 
-__如果想获取CAIR的稳定版本,请点击下方的链接__  
+__如果想获取CAIR的稳定版本(Stable版),请点击下方的链接__  
 
 #### [获取exe形式的CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.exe) &emsp; [获取zip形式的CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.zip)
 
