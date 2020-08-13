@@ -16,7 +16,7 @@ __如果想获取CAIR的稳定版本(Stable版),请点击下方的链接__
 
 # 运行环境
 
-__可以运行的系统有macOS,Linux,Windows__  
+__可以运行的系统有 macOS, Linux, Windows__  
 
 __可运行的Python版本在3.0及以上__  
 
