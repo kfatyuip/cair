@@ -42,7 +42,7 @@ def welcome() :
     print("欢迎使用CAIR人工智能机器人")
     print("操作系统: %s" % platform.platform())
     print("版本: %s" % init.__version__,"类型: %s版" % init.__vt__,"发行版本: %s" % init.__it__)
-    print(u"版权所有: CRDT Studio","开发者: %s" % init.__author__)
+    print("版权所有: CRDT Studio","开发者: %s" % init.__author__)
     
 start_out = "-" * 30
 
