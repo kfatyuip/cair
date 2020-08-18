@@ -67,3 +67,8 @@ cwfd,天气预报，叽叽喳喳语，巴祖木语放入bin/mod/
 ---2.8.1 ~ 2.9 版本
 改名bin/main.py为bin/core.py,bin/init.py为dis.py(data & init && sql),bin/tools/function.py为bin/lib/func.py
 增加CAIR标准库bin/lib
+---3.0版本
+bin/lib/* -> bin/mod/
+bin/lib -> lib/
+修复新闻和检查版本的bug && (换源)
+换了对话api
