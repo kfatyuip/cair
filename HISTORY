@@ -1,0 +1,69 @@
+---0.01版本
+CAIR诞生
+---1.0 ~ 0.6版本
+CAIR持续更新
+---0.61版本
+增加了新闻模块，天气系统api更换
+---0.64版本
+启动器增加了welcome函数
+---0.65版本
+CAIR的bin库修改更新,data.py中存储数据
+---0.66版本
+CAIR进入main文件中main函数有提示[已被删除]
+---0.67版本 ~ 0.7版本
+CAIR-PC强化
+---0.8版本
+CAIR开始添加Python-MMS(模块管理系统)[已被删除]
+---0.9版本
+CIAR启动器main函数
+---0.91版本
+增加bash版启动器,data改为init,
+删除main文件中的Schar函数,增加setting.json,可添加颜色
+---1.0版本 ~ 1.1版本
+CAIR-fun增加智能对话函数，1.1没联网说听不懂
+---1.2版本
+CAIR-main函数小优化
+---1.3版本
+CAIR settings.json增加welcome变量
+---1.4版本
+CAIR增加fileos系统,优化settings.json
+---1.45版本
+CAIR优化智能对话
+---1.5版本
+CAIR启动器增加更多功能
+---1.6版本
+CAIR修复与urllib3的模块冲突
+---1.7版本
+CAIR发行版开始初期,
+dll.sh = developer_linux_launcher.sh
+dwl.bat = developer_windows_launcher.bat
+---1.8版本
+优化了CAIR代码
+增加了对话status_code
+---1.9版本
+增加 bin/mod/agent 包含很多浏览器的User-Agent
+优化main文件
+状态码优化
+bin/web 中文件全部加上了 bin/mod/agent
+---2.0版本
+修复了不能对话的语法bug
+优化启动器界面
+---2.1版本
+增加了基于PythonSimpleHTTP服务器--CRSR
+---2.12版本
+一些文件的变量名优化，更易懂
+---2.2版本
+把bin/funplaytool改成了bin/mod/fun/
+---2.3版本 ~ 2.4版本
+增加自定义镜像源功能，json优化
+---2.5版本
+cwfd,天气预报，叽叽喳喳语，巴祖木语放入bin/mod/
+---2.6版本
+增加自定义词库功能
+---2.7版本
+优化了代码，开发者看起来更易懂
+---2.8版本
+更换了对话api
+---2.8.1 ~ 2.9 版本
+改名bin/main.py为bin/core.py,bin/init.py为dis.py(data & init && sql),bin/tools/function.py为bin/lib/func.py
+增加CAIR标准库bin/lib
