@@ -1,4 +1,4 @@
-<img src="https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/mini-logo.png" align="center">
+<img src="https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/mini-logo.png" align="right">
 
 # CAIR 命令行机器人
 
