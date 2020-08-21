@@ -14,7 +14,7 @@ __现在最新的 CAIR 版本是 CAIR 3.0 !__
 
 __如果想获取 CAIR 的稳定版本(Stable版),请点击下方的链接__  
 
-#### [获取exe形式的 CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.exe) &emsp; [获取zip形式的 CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.zip)
+#### [获取exe形式的 CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.exe) &emsp; &emsp; [获取zip形式的 CAIR](https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/cair.zip)
 
 
 # 运行环境
