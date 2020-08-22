@@ -21,7 +21,7 @@ __如果想获取 CAIR 的稳定版本(Stable版),请点击下方的链接__
 
 __可以运行的操作系统有 [macOS](https://www.apple.com/macos/catalina/), [Linux](https://www.linux.org), [Windows](https://www.microsoft.com/)__  
 
-__可运行的版本是[Python](https://www.python.org/download)3以上(推荐使用Python 3.8及以上)__  
+__可运行的版本是[Python](https://www.python.org/download)3(推荐使用Python 3.8及以上)__  
 
 # 许可证   
 
