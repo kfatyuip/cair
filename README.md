@@ -10,7 +10,7 @@ __CAIR中有许多功能，使得它可以有效地帮助开发人员__
 
 # 运行环境
 
-__可以运行的操作系统有 Linux 和 Windows
+__可以运行的操作系统有 Linux 和 Windows__ 
 
 __可运行的版本是[Python](https://www.python.org/download)3(推荐使用Python 3.8及以上)__  
 
@@ -18,12 +18,4 @@ __可运行的版本是[Python](https://www.python.org/download)3(推荐使用Py
 
 __CAIR 是根据 [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) 许可证发布的__  
 
-__这意味着可以用于商业用途，修改，专利使用，私人使用__  
-
-# 关于我们
-
-__开发者 kfatyuip__  
-
-__开发团队 CRDT工作室__
-
-##### [访问我们的官方网站 http://crdtgzs.rthe.net](http://crdtgzs.rthe.net) &emsp; ___(由热铁盒虚拟主机提供虚拟主机服务)___  
+__这意味着可以用于商业用途，专利使用或私人使用__  
