@@ -20,4 +20,8 @@ __CAIR 是根据 [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) 许可证
 
 __这意味着可以用于商业用途，专利使用或私人使用__  
 
-__版权所有 kfatyuip@github.com__ 
+# 版权所有
+
+__联系方式: __ 
+
+__kfatyuip@github.com kfatyuip@163.com__ 
