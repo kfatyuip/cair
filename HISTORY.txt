@@ -72,3 +72,5 @@ bin/lib/* -> bin/mod/
 bin/lib -> lib/
 修复新闻和检查版本的bug && (换源)
 换了对话api
+---3.1版本
+cor.py分为两个部分和imods,cair启动器合并
