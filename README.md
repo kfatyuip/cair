@@ -6,11 +6,11 @@ __CAIR 是一种开源且面向命令行的机器人，由社区驱动__
 
 __CAIR 使用的语言是简体中文(zh-CN)__  
 
-__CAIR中有许多模块，使得它可以有效地帮助开发人员__  
+__CAIR中有许多功能，使得它可以有效地帮助开发人员__  
 
 # 运行环境
 
-__可以运行的操作系统有 [macOS](https://www.apple.com/macos/catalina/), [Linux](https://www.linux.org), [Windows](https://www.microsoft.com/)__  
+__可以运行的操作系统有 __macOS__, __Linux__和___Windows__ 
 
 __可运行的版本是[Python](https://www.python.org/download)3(推荐使用Python 3.8及以上)__  
 
