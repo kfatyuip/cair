@@ -19,3 +19,7 @@ __可运行的版本是[Python](https://www.python.org/download)3(推荐使用Py
 __CAIR 是根据 [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) 许可证发布的__  
 
 __这意味着可以用于商业用途，专利使用或私人使用__  
+
+# 版权所有
+
+__kfatyuip@github.com__ 
