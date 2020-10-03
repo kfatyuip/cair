@@ -10,7 +10,7 @@ __CAIR中有许多功能，使得它可以有效地帮助开发人员__
 
 # 运行环境
 
-__可以运行的操作系统有 __macOS__, __Linux__和___Windows__ 
+__可以运行的操作系统有 Linux 和 Windows
 
 __可运行的版本是[Python](https://www.python.org/download)3(推荐使用Python 3.8及以上)__  
 
