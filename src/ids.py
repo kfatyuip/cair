@@ -5,7 +5,6 @@ import json
 import fileos
 
 bq = "\\" if platform.system() == "Windows" else "/"
-sys.path.append(os.getcwd() + bq + "bin" + bq + "pymod" + bq)
 
 __author__ = "kfatyuip"
 __version__ = "3.0"
