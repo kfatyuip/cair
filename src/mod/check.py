@@ -2,7 +2,7 @@
 # -*- coding : UTF-8 -*-
 
 import json
-from bin import ids
+import ids
 
 url = "https://crdtgzs.coding.net/p/file/d/cair/git/raw/master/info.json"
 

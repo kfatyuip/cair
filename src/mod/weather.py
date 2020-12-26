@@ -1,6 +1,6 @@
 import json
 import requests
-from bin.mod import agent
+from mod import agent
 
 def main(city) :
     url = "http://wthrcdn.etouch.cn/weather_mini?city=%s" % city

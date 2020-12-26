@@ -2,7 +2,7 @@ import os
 import sys
 import platform
 import json
-from bin import fileos
+import fileos
 
 bq = "\\" if platform.system() == "Windows" else "/"
 sys.path.append(os.getcwd() + bq + "bin" + bq + "pymod" + bq)

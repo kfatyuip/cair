@@ -5,7 +5,7 @@ import sys
 import os
 import time
 import requests
-from bin.mod import agent
+from mod import agent
 
 headers = agent.ua("chrome")
 requests.packages.urllib3.disable_warnings()

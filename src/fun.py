@@ -2,7 +2,7 @@ import json
 import requests
 import re
 import os
-from bin.mod import agent
+from mod import agent
 
 def i_to_you(s) :
     result = ""
@@ -19,7 +19,7 @@ def i_to_you(s) :
 def funplay(s) :
     import re
     import platform
-    from bin.fileos import getargv
+    from fileos import getargv
     fg = "\\" if platform.system() == "Windows" else "/"
     ok = True
     err = False
