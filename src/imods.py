@@ -1,6 +1,9 @@
+import os
 import re
 import threading
 import time
+import ids
+from ids import thisos
 
 def funcplay(strs) :
     import fun
