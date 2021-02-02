@@ -7,7 +7,6 @@ import platform
 import ids
 import imods
 
-ids.path(sys.argv[0])
 __version__ = ids.__version__
 this_os = platform.system()
 dps = ids.dps

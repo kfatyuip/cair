@@ -30,11 +30,6 @@ else :
 def output(s) :
     print("%s:|%s" % (name,s))
 
-
-def path(p) :
-    import re
-    sys.path.append(re.sub("(\w)+.py","",p) + "bin" + bq + "pymod" + bq)
-   
 def cair_start(mode=None) :
     global color
     zd = {}
